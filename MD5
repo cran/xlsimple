@@ -1,0 +1,16 @@
+d12702d081048a7ac0ea9fbc171aa80c *DESCRIPTION
+2c3ea87a39155dd0cba8c131d8ab96b4 *NAMESPACE
+c9b917c987145faca994a0f0660c6950 *NEWS.md
+044591720ced0d452db4dbee4d22a538 *R/addXLSheetStd.R
+c61958635206e3690ee8c1860e245041 *R/addXLreadme.R
+9080002bb9e3be7a7291af5692f39868 *R/findFile.R
+09c862e42636764ca3fd80b7696ce96d *R/getXLsettings.R
+d3bb4e1fb58a7b176e3e69565054abe5 *R/readXLworkbook.R
+731e0e5966a106319d8786887f9a6b30 *R/saveXLworkbook.R
+58e37b24c5a632c49f227db163095f26 *R/zzz.R
+5b36af393eb78e4d74bfa72ebda19701 *README.md
+e721b9204c2f03abecf16fd950b01aef *inst/extdata/xlsimple.xlsx
+6aee28c9b61588e563e3b4257bb03428 *man/addXLsheetStd.Rd
+df97c7750b7c3f34396700675c7ca047 *man/getXLsettings.Rd
+e8ce86c4e0ff9f235a5756bdcb83872e *man/readXLworkbook.Rd
+def867d91f9164ef4f5fb5a412fae740 *man/saveXLworkbook.Rd
