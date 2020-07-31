@@ -2,13 +2,17 @@
 % Please edit documentation in R/readXLworkbook.R
 \name{readXLworkbook}
 \alias{readXLworkbook}
-\title{Load a full MS Excel File}
+\title{Load a full 'MS Excel' File}
 \usage{
-readXLworkbook(filename, environment = parent.frame(), verbose = TRUE,
-  free.warnings = TRUE)
+readXLworkbook(
+  filename,
+  environment = parent.frame(),
+  verbose = TRUE,
+  free.warnings = TRUE
+)
 }
 \arguments{
-\item{filename}{The path and the name to the MS Excel File.}
+\item{filename}{The path and the name to the' MS Excel' File.}
 
 \item{environment}{Environment were the new variables will be located. By
 default is parent environment.}
@@ -19,11 +23,13 @@ default is parent environment.}
 result of loading the content of the book's sheets.}
 }
 \description{
-Given a MS Excel File it loads the full workbook creating as many variables as
+Given a 'MS Excel' File it loads the full workbook creating as many variables as
 sheets exists in the workbook.
 }
 \details{
-This function was developed by Carles Hernandez-Ferrer
+This function was developed by Carles Hernandez-Ferrer (carleshf) in
+the package "loadxls" hosted on GitHub.  As of 2020-07-20 the repo no longer
+exists.  The blog post about the package is below.
 
-https://github.com/carleshf/loadxls/blob/master/R/read_all.R
+https://carleshf87.wordpress.com/2016/01/24/loadxls-r-package/
 }
